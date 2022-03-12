@@ -1,0 +1,18 @@
+http://svpcet.org/mathematical-foundations-of-computer-science18d08101/
+
+1. Expailn in detail about logical connectives with examples.
+https://www.gatevidyalay.com/logical-connectives-truth-tables-examples/
+
+2. a) Defined well formed formula .Explain about tautology and contraduction with examples.
+
+
+   b) Determind whether the conclusion  “C” follows logically from the premises H1^H2.
+               H1:7p,H2:p↔Q,C:7(p^Q).
+
+
+
+3.(a) show that ((PvQ)^7(7P^(7Qv7R)))v(7P^7Q)v(7P^7R) is a tautology.
+	b)Write the P.D.N.F and P.C.N.F for using following formulas without using truth table Pv(Q→R).
+
+https://www.geeksforgeeks.org/pdnf-and-pcnf-in-discrete-mathematics/
+http://www.vidyarthiplus.in/2014/07/ma2265-discrete-mathematics-two-mark.html
